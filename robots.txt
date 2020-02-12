@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://cooquaafox.schoenig.me/sitemap.xml
